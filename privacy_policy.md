@@ -24,4 +24,4 @@ Firebaseのプライバシーポリシーはこちらになります。
 # お問い合わせ先
 何かご不明点や改善してほしいところがございましたら、お気軽に下記へお問い合わせください。
 
-daisuke.dev244@gmail.com
+[お問い合わせ](https://forms.gle/HuCRDm4R9uTpYyCy9)
